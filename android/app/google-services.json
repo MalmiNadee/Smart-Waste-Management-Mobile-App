@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "728567873088",
+    "project_id": "smart-waste-management-s-1e6bf",
+    "storage_bucket": "smart-waste-management-s-1e6bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728567873088:android:bf76a92730f9743cc969a5",
+        "android_client_info": {
+          "package_name": "com.example.smart_waste"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC94WxFETiJPnBnesWph_a_Ax-4Af3v0nE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
